@@ -1,0 +1,20 @@
+{
+  "name": "opsdesk-practice",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js",
+    "dev": "tsx watch src/server.ts"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "@types/node": "^26.6.6",
+    "eslint": "^10.15.0",
+    "typescript": "^7.0.2"
+  }
+}
